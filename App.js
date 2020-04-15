@@ -85,3 +85,7 @@ document.getElementById("box").append(botDiv);
 
 
 }
+
+function refreshNow(){
+    location.reload()
+}
